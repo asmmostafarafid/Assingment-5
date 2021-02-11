@@ -1,0 +1,25 @@
+body {
+    background-color: #EDD163;
+  }
+
+  h1 {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  button {
+    border: none;
+    background-color: white;
+    padding: 0;
+  }
+
+  #showResult {
+    display: none;
+    width: 450px;
+  }
+
+  #aboutError {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+  }
